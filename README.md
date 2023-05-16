@@ -27,3 +27,7 @@ Choice 3 gives a menu for various different visualizations using ggplot2 library
 Choice 4 displays creator information and project details.
 
    ![Choice 4](/screenshots/choice4.png)
+---
+
+## Conclusion
+In conclusion, this project demonstrates the use of R language and Rstudio to analyze the Titanic dataset, build a machine learning model, and create various data visualizations. The project shows how ggplot2 packages can be used to visualize data, and how machine learning algorithms such as Random Forest can be used to predict survival rates of new passengers all of which is done using a user-friendly interactive menu-driven environment.
